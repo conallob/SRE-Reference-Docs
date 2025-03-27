@@ -10,3 +10,4 @@
 
 * https://sre.google/prodverbs
 * https://www.oreilly.com/content/generic-mitigations/
+* [Production Meetings per SRE Book](https://sre.google/sre-book/communication-and-collaboration/#xref_comms-collab_production-meetings)
